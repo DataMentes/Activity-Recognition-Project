@@ -1,7 +1,6 @@
 # Activity Recognition Streamlit App
 
-## Run
-[Live](https://activity-recognition-project-0.streamlit.app/)```
+## Run [Live](https://activity-recognition-project-0.streamlit.app/)
 
 ```bash
 
