@@ -1,10 +1,9 @@
 # Activity Recognition Streamlit App
 
-## Local Run
+## Run
 
 ```bash
-/home/ezz-eldin/miniforge3/envs/ds/bin/python -m streamlit run app.py
-```
+[Live](https://activity-recognition-project-0.streamlit.app/)```
 
 ## Deployment (Streamlit Community Cloud)
 
