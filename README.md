@@ -1,9 +1,9 @@
 # Activity Recognition Streamlit App
 
 ## Run
+[Live](https://activity-recognition-project-0.streamlit.app/)```
 
 ```bash
-[Live](https://activity-recognition-project-0.streamlit.app/)```
 
 ## Deployment (Streamlit Community Cloud)
 
